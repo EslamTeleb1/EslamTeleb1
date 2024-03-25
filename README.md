@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019! But hey, that's how we learn, right?<br><br>📚 I'm currently learning about distributed systems and microservices architecture. It's fascinating how different components interact to create scalable and resilient systems.<br><br>🎯 Goals: Mastering backend development techniques, diving deeper into cloud technologies, and eventually becoming proficient in machine learning.🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019! But hey, that's how we learn, right?<br><br>📚 I'm currently learning about distributed systems and microservices architecture. It's fascinating how different components interact to create scalable and resilient systems.<br><br>🎯 Goals: Mastering backend development techniques, diving deeper into cloud technologies, and eventually becoming proficient in machine learning.<br> </p>
 
 ###
 
